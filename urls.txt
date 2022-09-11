@@ -1,0 +1,6 @@
+http://rithmschool.com
+http://postgresql.com
+http://foozlemcblargh.com
+https://nodejs.org/api/console.html
+https://wikipedia.org/wiki/Dune
+https://w3schools.com/nodejs/nodejs
